@@ -17,5 +17,10 @@ I passed in damage_path, which needed the id of the Pokemon I was damaging
 The flash is a key value mapping; we are setting the value of the flash message in the case that there's an error to the error message given by the pokemon object.
 
 # Give us feedback on the project and decal below!
+The project was pretty fun to do. So far the decal has been really chill and informative! 
+
+# Repo: https://github.com/shariewang/sp18-proj1
 
 # Extra credit: Link your Heroku deployed app
+
+
